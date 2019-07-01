@@ -1,2 +1,4 @@
 # task-list
-JS Task List with local storage
+JavaScript - Task List with local storage
+
+- Materialize CSS
